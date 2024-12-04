@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedalmaz" alt="muhammedalmaz" /></a> </p>
 
-- 🌱 I’m currently learning **Solidty, C/C++, Golang**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://muhammedalmaz.com](https://muhammedalmaz.com)
 
