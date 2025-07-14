@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://muhammedalmaz.com/blog](https://muhammedalmaz.com/blog)
 
-- 💬 Ask me about **Flutter, Php (Pure or Laravel), Bootstrap, Javascript/Typescript(Jquery,React,React-Native,NodeJS[Express, Socket.io, Sails]), HTML, CSS, JAVA(Android Native), MySQL, MSSQL, MongoDB, SqLite**
+- 💬 Ask me about **Flutter, JAVA(Android Native), React-Native, NodeJS (Socket.IO, Express, Sails, NestJS), ReactJS, NextJS, JQuery, Bootstrap, HTML, CSS,  MySQL, MSSQL, MongoDB, SqLite, TimesacaleDB**
 
 - 📫 How to reach me **mhmdalmz34@gmail.com**
 
